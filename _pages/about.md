@@ -22,7 +22,7 @@ Education
 >- Major in Electronic Information Engineering  
 - 2023.09-present  
 >- Mphil in the Hong Kong University of Science and Technology,Guangzhou(HKUSTgz)
->- Major in Robotics and Autonomous Systems
+>- Major in Robotics and Autonomous Systems1
 
 Research Interests
 ------
