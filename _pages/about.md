@@ -18,9 +18,9 @@ Education
 ======
 - 2019.09-2023.06  
 >- Bachelor in Southwest University(SWU)  
-Electronic Information Engineering  
+>- Electronic Information Engineering  
 - 2023.09-present
-Mphil 
+>- Mphil in the Hong Kong University of Science and Technology,Guangzhou(HKUSTgz)
 
 Site-wide configuration
 ------
