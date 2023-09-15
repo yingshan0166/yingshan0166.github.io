@@ -11,12 +11,12 @@ redirect_from:
 aaaaaaaaaaaaaaaaaaaaaaaaaa
 
 Biography
-======
+------
 Ziming Wang is a MPhil student in the Hong Kong University of Science and Technology (Guangzhou). He is supervised by [Prof. Yu Huan]
 (https://yuhuanlab.com/)
 
 Education
-======
+------
 - 2019.09-2023.06  
 >- Bachelor in Southwest University(SWU)   
 >- Major in Electronic Information Engineering  
