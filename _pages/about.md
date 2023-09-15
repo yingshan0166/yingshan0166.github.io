@@ -12,16 +12,16 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaThis is the front page of a website that is powered by
 
 Biography
 ======
-Ziming Wang is a MPhil student in the Hong Kong University of Science and Technology (Guangzhou)
+Ziming Wang is a MPhil student in the Hong Kong University of Science and Technology (Guangzhou). He is supervised by [Prof. Yu Huan](https://yuhuanlab.com/)
 
 Education
 ======
 - 2019.09-2023.06  
 >- Bachelor in Southwest University(SWU)   
->- Electronic Information Engineering  
+>- Major in Electronic Information Engineering  
 - 2023.09-present  
 >- Mphil in the Hong Kong University of Science and Technology,Guangzhou(HKUSTgz)
->- Robotics and Autonomous Systems
+>- Major in Robotics and Autonomous Systems
 
 Site-wide configuration
 ------
