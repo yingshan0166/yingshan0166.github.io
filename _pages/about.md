@@ -21,7 +21,7 @@ Education
 >- Electronic Information Engineering  
 - 2023.09-present  
 >- Mphil in the Hong Kong University of Science and Technology,Guangzhou(HKUSTgz)
->- 
+>- Robotics and Autonomous Systems
 
 Site-wide configuration
 ------
