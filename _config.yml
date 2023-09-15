@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziming Wang"
-  avatar           : "photo1.JPG"
+  avatar           : "photo1"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
