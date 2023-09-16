@@ -8,9 +8,9 @@ redirect_from:
 
 
 ## Journal
-### Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case
-**Ziming Wang**, Xin Wang and Ning Pang. (2023). 
-*IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).
+### Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case  
+**Ziming Wang**, Xin Wang and Ning Pang. (2023).  
+*IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
 2023.08, DOI:10.1109/TCSII.2023.3309400.
 
 ### Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case
