@@ -1,7 +1,7 @@
 ---
 title: "Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties:
 The Switching Threshold Case"
-collection: 
+collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Ning Pang, Xin Wang, and **Ziming Wang**.'
 date: 2022-04-04
