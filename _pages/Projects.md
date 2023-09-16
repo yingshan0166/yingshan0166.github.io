@@ -6,23 +6,14 @@ redirect_from:
   - /Projects
 ---
 
-## Establishment and Sensitivity Analysis of Cluster Collaborative Air Combat Indicator System Based on Bayesian Network （2020.04-2021.01） Student Leader
-**Project Source**: AVIC Shenyang Aircraft Design Institute
+## Event-Triggered Adaptive Neural Control for Full State-constrained Nonlinear Systems With Unknown Disturbances （06/2022-06/2023） Research Group Leader 
+**Project Source**: Project for Innovation Training Program for College Students (National-level Project)  
 
-**Project Objectives**: 
-1. Model the cluster cooperative air combat index system
-2. Use simulation data to train it to get network parameters
-3. Perform precision analysis
-4. Get the ranking of factors affecting air combat.
+**Project Information**: 
+1. This project aims to develop an event sampling immune adaptive controller based on a hybrid event triggering mechanism to resist unknown external dynamic perturbations, and tries to apply the theoretical achievements to practical control scenarios such as UAV swarms or intelligent cart swarms.
+2. Ascertain the research topic with the supervisor, which is to add a perturbation observer, a second-order filter, and an event trigger to a state-constrained nonlinear system, refer to extensive literatures regarding these models and add them to a nonlinear complex system to test the operability for further simulation experiments.
+3. This project is funded up to **23,200 RMB**, and it is awarded outstanding completion.
 
-**Specific Work**: We use the combination of Viso and Matlab to draw a Bayesian network with 500+ nodes, and use python to call pandas to write a program to convert the table into an adjacency matrix. Using pyqt5, we use multi-threading to achieve precision analysis functions. Afterwards, in order to improve the efficiency, MFC is used to make the interface and implement the algorithm. Finally, we write the experimental report and complete the project report.
-
-## Method and implementation of collaborative intelligent control based on brain-computer interface （2018.07-2019.05） Student Leader
-
-**Project Source**: National Key Discipline Laboratory "Neural Information Processing Laboratory" (Leader: Songyun Xie)
-
-**Project Objectives**: The current brain-computer interface has problems such as low recognition rate and poor universality. This project aims to study the multi-person collaborative control algorithm, and multiple experimenters issue the same instructions, so as to improve the recognition accuracy and improve the universality and system stability.
-Specific Work: I coordinate a team of 5 people. The task is divided into algorithm modeling part, algorithm implementation part, brain p300 wave part, and data labeling part. We use Matlab to write a support vector machine classifier (svm) and a BP neural network to classify brain waves. Next, we call the interface to control the car, and control the four-degree-of-freedom movement of the car through the wifi connection.
 
 ## 基于贝叶斯网络的集群协同空战指标体系的建立及敏感性分析 （2020.04-2021.08） 学生负责人
 
