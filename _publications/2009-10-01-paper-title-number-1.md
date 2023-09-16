@@ -1,16 +1,31 @@
 ---
-title: "Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent
-Systems with Unknown States and Disturbances"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Ning Pang, Xin Wang, and **Ziming Wang**4'
-date: 2021-12-23
-venue: 'IEEE Transactions on Neural Networks and Learning Systems'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /
+title: "Welcome to my website!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+aaaaaaaaaaaaaaaaaaaaaaaaaa
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Biography
+------
+Ziming Wang is a MPhil student in the Hong Kong University of Science and Technology (Guangzhou). He is supervised by [Prof. Yu Huan](https://yuhuanlab.com/).
+
+Education
+------
+- 2019.09-2023.06  
+>- Bachelor in Southwest University (SWU)   
+>- Major in Electronic Information Engineering  
+- 2023.09-present  
+>- Mphil in the Hong Kong University of Science and Technology, Guangzhou (HKUSTgz)
+>- Major in Robotics and Autonomous Systems
+
+Research Interests
+------
+- Adaptive control
+- Event trigger control
+- Nonlinear control system
+- Reinforcement learning
