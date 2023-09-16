@@ -24,5 +24,12 @@ Ning Pang, Xin Wang, and **Ziming Wang**. (2021.12)
 DOI:10.1109/TNNLS.2021.3133440
 
 ## Journal Under Review
-### An Efficiency Analysis Method for Target Recognition Based on Expert Experience and Bayesian Network
-Gao, X.* , **Zhong R.**, et al. CN114722899A.
+### Neural-Network-Based Controller Algorithms for Full State-constrained Nonlinear Systems: The Event Triggered Case
+**Ziming Wang**, Xin Wang, Ning Pang and Quan Shi.
+*Cognitive Computation* (IF=5.3).  
+State: evaluating recommendation
+
+### On State-Constrained Containment Control for Nonlinear Multiagent Systems Using Event-Triggered Input
+Xin Wang, Yanwei Xu, Ning Pang, and **Ziming Wang**.
+*IEEE Transactions on Network Science and Engineering* (IF=5.3).  
+State: under review
