@@ -18,6 +18,11 @@ Ning Pang, Xin Wang, and **Ziming Wang**. (2022.04)
 *IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
 DOI:10.1109/TCSII.2022.3164572.
 
+### Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent Systems with Unknown States and Disturbances  
+Ning Pang, Xin Wang, and **Ziming Wang**. (2021.12)  
+*IEEE Transactions on Neural Networks and Learning Systems* (IF=10.4).  
+DOI:10.1109/TNNLS.2021.3133440
+
 ## Journal Under Review
 ### An Efficiency Analysis Method for Target Recognition Based on Expert Experience and Bayesian Network
 Gao, X.* , **Zhong R.**, et al. CN114722899A.
