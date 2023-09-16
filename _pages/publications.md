@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-## Journal
+## Journals
 ### Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case  
 **Ziming Wang**, Xin Wang and Ning Pang. (2023.08)  
 *IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
@@ -23,13 +23,13 @@ Ning Pang, Xin Wang, and **Ziming Wang**. (2021.12)
 *IEEE Transactions on Neural Networks and Learning Systems* (IF=10.4).  
 DOI:10.1109/TNNLS.2021.3133440
 
-## Journal Under Review
+## Journals Under Review
 ### Neural-Network-Based Controller Algorithms for Full State-constrained Nonlinear Systems: The Event Triggered Case
-**Ziming Wang**, Xin Wang, Ning Pang and Quan Shi.
-*Cognitive Computation* (IF=5.3).  
+**Ziming Wang**, Xin Wang, Ning Pang and Quan Shi.  
+*Cognitive Computation* (IF=5.4).  
 State: evaluating recommendation
 
 ### On State-Constrained Containment Control for Nonlinear Multiagent Systems Using Event-Triggered Input
-Xin Wang, Yanwei Xu, Ning Pang, and **Ziming Wang**.
-*IEEE Transactions on Network Science and Engineering* (IF=5.3).  
+Xin Wang, Yanwei Xu, Ning Pang, and **Ziming Wang**.  
+*IEEE Transactions on Network Science and Engineering* (IF=6.6).  
 State: under review
