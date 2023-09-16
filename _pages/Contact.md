@@ -1,10 +1,9 @@
 ---
-permalink: /Scholarship/
-title: "Scholarship"
+permalink: /Contact/
+title: "Contact"
 author_profile: true
 redirect_from: 
-  - /Scholarship
----
+  - /Contact
 
 ## 荣获中国留学基金委奖学金（2021）
 Scholarship from China Scholarship Council
