@@ -29,7 +29,7 @@ Research Interests
 - Nonlinear control system
 - Reinforcement learning
 
-Contact address
+Contact Emails
 ------
 wwwangziming@163.com  
 zwang216@connect.hkust-gz.edu.cn
