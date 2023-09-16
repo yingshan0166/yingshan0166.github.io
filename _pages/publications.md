@@ -14,7 +14,7 @@ redirect_from:
 DOI:10.1109/TCSII.2023.3309400.
 
 ### Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case  
-Ning Pang, Xin Wang, and **Ziming Wang**. (2022.04).  
+Ning Pang, Xin Wang, and **Ziming Wang**. (2022.04)   
 *IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
 DOI:10.1109/TCSII.2022.3164572.
 
