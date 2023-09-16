@@ -15,24 +15,9 @@ redirect_from:
 3. This project is funded up to **23,200 RMB**, and it is awarded outstanding completion.
 
 
-## 基于贝叶斯网络的集群协同空战指标体系的建立及敏感性分析 （2020.04-2021.08） 学生负责人
+## Research on Tracking Control of High-order Nonlinear Multiagent Systems  （06/2021-06/2022） Member  
+**Project Source**: Project for Innovation Training Program for College Students (Municipal-level Project)
 
-**项目来源**：中航沈阳飞机设计院
-
-**项目目标**：
-1. 集群协同空战指标体系建模。
-2. 使用模拟数据对其进行训练，得到网络参数。
-3. 进行精度分析。
-4. 获取影响空战的因素排名。
-
-**主要工作**：通过构建500+个因素的集群协同空战指标体系，结合Viso和Matlab绘图，运用Python实现表格与邻接矩阵相互转换的功能，运用Pyqt5及多线程技术实现敏感性分析功能。通过C++实现算法，提高计算效率。完成实验报告与项目报告，提出新的复杂系统下的敏感性分析方法，完成专利1项和论文1篇，目前专利已公开。完成项目后获得了二期项目。
-
-
-## 基于脑机接口的协同智能控制方法与实现 （2018.07-2019.05） 学生负责人
-
-**项目来源**：国家重点学科实验室“神经信息处理实验室”（负责人：谢松云）
-
-**项目目标**：针对目前脑机接口存在的识别率低、通用性差等问题，本项目通过研究多人协同控制算法，提高识别精度，提高通用性和系统稳定性。
-
-**主要工作**：负责协调团队（共5人）工作。任务分为：算法建模模块、算法实现模块、脑P300波检测模块、数据标模块。运用Matlab编写支持向量机分类器（SVM）和深度神经网络对脑电波进行分类，并对比分析。获得控制信号，通过WIFI连接控制小车的四自由度运动。获得国家级大创优秀结题，互联网+校赛二等奖。
-
+**Project Information**: 
+1. This project investigated the semi-strict feedback system with one pilot and multiple followers existing in consistency control by introducing filters into the higher-order nonlinear multi-intelligent semi-strict feedback system to reduce the complexity and improve the reliability and safety of the system, and designing the unknown disturbance observer to handle the unknown disturbance term. This project is a municipal-level project with a fund of **3000 RMB** and a dissertation published, i.e. the first publication on the PUBLICATION column.
+2. Responsible for data collection, data processing, word processing, part of simulation experimental tasks, and paper composing.
