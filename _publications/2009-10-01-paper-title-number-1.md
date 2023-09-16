@@ -1,10 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The
+Switched-Self-Triggered Case"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '**Ziming Wang**, Xin Wang and Ning Pang.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'IEEE Transactions on Circuits and Systems II: Express Briefs (IF-4.4)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
