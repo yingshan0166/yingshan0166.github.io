@@ -3,7 +3,7 @@ title: "Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent
 Systems with Unknown States and Disturbances"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Ning Pang, Xin Wang, and **Ziming Wang**.'
+excerpt: 'Ning Pang, Xin Wang, and Ziming Wang.'
 date: 2015-10-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
