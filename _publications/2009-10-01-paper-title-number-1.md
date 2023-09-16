@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Publications"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,11 @@ redirect_from:
 
 aaaaaaaaaaaaaaaaaaaaaaaaaa
 
-Biography
+Peer-reviewed Journal
 ------
 Ziming Wang is a MPhil student in the Hong Kong University of Science and Technology (Guangzhou). He is supervised by [Prof. Yu Huan](https://yuhuanlab.com/).
 
-Education
+Conference Proceedings
 ------
 - 2019.09-2023.06  
 >- Bachelor in Southwest University (SWU)   
