@@ -28,7 +28,7 @@ Ning Pang, Xin Wang, and **Ziming Wang**. (2021.12)
 *IEEE Transactions on Neural Networks and Learning Systems* (IF=10.4).  
 DOI:10.1109/TNNLS.2021.3133440
 
-## Journals Under Review
+## Journals And Conferences Under Review
 ### On State-Constrained Containment Control for Nonlinear Multiagent Systems Using Event-Triggered Input
 Xin Wang, Yanwei Xu, Ning Pang, **Ziming Wang** and Tingwen Huang.  
 *IEEE Transactions on Systems, Man and Cybernetics-Systems* (IF=8.7).  
@@ -37,4 +37,9 @@ State: under review
 ### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems With Extended Sliding-Mode Disturbance Rejection
 Ning Pang, Xin Wang, **Ziming Wang** and Weidong Zhang.  
 *IEEE Transactions on Network Science and Engineering* (IF=6.6).  
+State: under review
+
+### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
+**Ziming Wang**.
+*The 36th Chinese Control and Decision Conference (CCDC 2024).  
 State: under review
