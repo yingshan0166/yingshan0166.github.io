@@ -28,7 +28,7 @@ Ning Pang, Xin Wang, and **Ziming Wang**. (2021.12)
 *IEEE Transactions on Neural Networks and Learning Systems* (IF=10.4).  
 DOI:10.1109/TNNLS.2021.3133440
 
-## Journals And Conferences Under Review
+## Journals and Conferences under Review
 ### On State-Constrained Containment Control for Nonlinear Multiagent Systems Using Event-Triggered Input
 Xin Wang, Yanwei Xu, Ning Pang, **Ziming Wang** and Tingwen Huang.  
 *IEEE Transactions on Systems, Man and Cybernetics-Systems* (IF=8.7).  
