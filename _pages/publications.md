@@ -39,6 +39,11 @@ Ning Pang, Xin Wang, **Ziming Wang** and Weidong Zhang.
 *IEEE Transactions on Network Science and Engineering* (IF=6.6).  
 State: under review
 
+### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
+kewei Zhou, Xin Wang, Zhihao Chen and **Ziming Wang**.  
+*IEEE Transactions on Network Science and Engineering* (IF=6.6).  
+State: Undergoing review
+
 ### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
 **Ziming Wang**.  
 *The 36th Chinese Control and Decision Conference (CCDC 2024).  
