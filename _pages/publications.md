@@ -12,7 +12,7 @@ redirect_from:
 **Ziming Wang**, Hui Wang, Xin Wang, Ning Pang and Quan Shi. (2023.11)  
 *Cognitive Computation* (IF=5.4).  
 Early accepted.  
-[paper1](../assets/paper1.pdf)
+[paper1](../assets/paper111.pdf)
 
 ### Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case  
 **Ziming Wang**, Xin Wang and Ning Pang. (2023.08)  
