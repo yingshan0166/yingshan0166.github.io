@@ -13,17 +13,17 @@ redirect_from:
 *Cognitive Computation* (IF=5.4).  
 Early accepted.  
 
-### [Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case](https://ieeexplore.ieee.org/document/10233088/authors#authors)  
+### [Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case](https://ieeexplore.ieee.org/document/10233088)  
 **Ziming Wang**, Xin Wang and Ning Pang. (2023.08)  
 *IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
 DOI:10.1109/TCSII.2023.3309400.
 
-### Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case  
+### [Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case](https://ieeexplore.ieee.org/document/9748882)  
 Ning Pang, Xin Wang, and **Ziming Wang**. (2022.04)   
 *IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
 DOI:10.1109/TCSII.2022.3164572.
 
-### Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent Systems with Unknown States and Disturbances  
+### [Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent Systems with Unknown States and Disturbances](https://ieeexplore.ieee.org/document/9662272)  
 Ning Pang, Xin Wang, and **Ziming Wang**. (2021.12)  
 *IEEE Transactions on Neural Networks and Learning Systems* (IF=10.4).  
 DOI:10.1109/TNNLS.2021.3133440
