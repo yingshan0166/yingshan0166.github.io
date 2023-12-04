@@ -36,7 +36,7 @@ State: under review
 
 ### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems With Extended Sliding-Mode Disturbance Rejection
 Ning Pang, Xin Wang, **Ziming Wang** and Weidong Zhang.  
-*IEEE Transactions on Network Science and Engineering* (IF=6.6).  
+*IEEE Transactions on Automation Science and Engineering* (IF=5.6).  
 State: under review
 
 ### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
@@ -46,5 +46,5 @@ State: undergoing review
 
 ### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
 **Ziming Wang**.  
-*The 36th Chinese Control and Decision Conference (CCDC 2024).  
+*The 36th Chinese Control and Decision Conference* (CCDC 2024).  
 State: under review
