@@ -10,7 +10,7 @@ redirect_from:
 ## Journals
 ### Neural-Network-Based Controller Algorithms for Full State-constrained Nonlinear Systems: The Event Triggered Case
 **Ziming Wang**, Hui Wang, Xin Wang, Ning Pang and Quan Shi. (2023.11)  
-*Cognitive Computation* (IF=5.4).  
+*Cognitive Computation* (IF=5.4).  [paper1](wangziming.github.io/assets/paper1.pdf)
 Early accepted.
 
 ### Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case  
