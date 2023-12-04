@@ -13,7 +13,7 @@ redirect_from:
 *Cognitive Computation* (IF=5.4).  
 Early accepted.  
 
-### Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case  
+### [Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case](https://ieeexplore.ieee.org/document/10233088/authors#authors)  
 **Ziming Wang**, Xin Wang and Ning Pang. (2023.08)  
 *IEEE Transactions on Circuits and Systems II: Express Briefs* (IF=4.4).  
 DOI:10.1109/TCSII.2023.3309400.
