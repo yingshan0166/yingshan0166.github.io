@@ -34,14 +34,14 @@ Xin Wang, Yanwei Xu, Ning Pang, **Ziming Wang** and Tingwen Huang.
 *IEEE Transactions on Systems, Man and Cybernetics-Systems* (IF=8.7).  
 State: under review
 
-### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems With Extended Sliding-Mode Disturbance Rejection
+### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-Mode Disturbance Rejection Method
 Ning Pang, Xin Wang, **Ziming Wang**, Weidong Zhang and Tingwen Huang.  
-*IEEE Transactions on Automation Science and Engineering* (IF=5.6).  
+*IEEE Transactions on Control of Network Systems* (IF=4.2).  
 State: under review
 
 ### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
 Kewei Zhou, Xin Wang, Zhihao Chen and **Ziming Wang**.  
-*IEEE Transactions on Network Science and Engineering* (IF=6.6).  
+*IEEE Transactions on Control Science and Engineering* (IF=6.6).  
 State: undergoing review
 
 ### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
