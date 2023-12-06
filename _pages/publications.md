@@ -35,7 +35,7 @@ Xin Wang, Yanwei Xu, Ning Pang, **Ziming Wang** and Tingwen Huang.
 State: under review
 
 ### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems With Extended Sliding-Mode Disturbance Rejection
-Ning Pang, Xin Wang, **Ziming Wang** and Weidong Zhang.  
+Ning Pang, Xin Wang, **Ziming Wang**, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Automation Science and Engineering* (IF=5.6).  
 State: under review
 
