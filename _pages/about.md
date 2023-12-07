@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ------
-Ziming Wang is a master of philosophy postgraduate student in the Hong Kong University of Science and Technology (Guangzhou). His research interests lie in a wide range of topics related to control theory, machine learning and machine learning. He has published in refereed journals, such as IEEE TNNLS, IEEE TCASII and Cognitive Computation. He is presently supervised by [Prof. Yu Huan](https://yuhuanlab.com/).
+Ziming Wang is a master of philosophy postgraduate student in the Hong Kong University of Science and Technology (Guangzhou). His research interests lie in a wide range of topics related to control theory, machine learning, and machine learning. He has published in refereed journals, such as IEEE TNNLS, IEEE TCASII, and Cognitive Computation. He is presently supervised by [Prof. Yu Huan](https://yuhuanlab.com/).
 
 Education
 ------
