@@ -45,7 +45,7 @@ Kewei Zhou, Xin Wang\*, Zhihao Chen and <ins>**Ziming Wang**</ins>.
 State: undergoing review
 
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
-Ling Wang, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
+Ling Wang, Xin Wang\* and <ins>**Ziming Wang**\*</ins>.  
 *Nonlinear Dynamics* (IF=5.6).  
 State: undergoing review
 
