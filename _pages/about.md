@@ -19,7 +19,7 @@ Education
 >- Bachelor in Southwest University (SWU)   
 >- Major in Electronic Information Engineering  
 - 2023.09-present  
->- Mphil in the Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)
+>- MPhil in the Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)
 >- Major in Robotics and Autonomous Systems
 
 Research Interests
