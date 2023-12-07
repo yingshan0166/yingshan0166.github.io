@@ -25,7 +25,7 @@ Education
 Research Interests
 ------
 - Adaptive control
-- Event trigger control
+- Event-triggered control
 - Nonlinear control system
 - Reinforcement learning
 
