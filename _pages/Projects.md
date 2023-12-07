@@ -10,8 +10,8 @@ redirect_from:
 **Project Source**: Project for Innovation Training Program for College Students (National-level Project)  
 
 **Project Information**: 
-1. This project aims to develop an event sampling immune adaptive controller based on a hybrid event triggering mechanism to resist unknown external dynamic perturbations, and tries to apply the theoretical achievements to practical control scenarios such as UAV swarms or intelligent cart swarms.
-2. Ascertain the research topic with the supervisor, which is to add a perturbation observer, a second-order filter, and an event trigger to a state-constrained nonlinear system, refer to extensive literatures regarding these models and add them to a nonlinear complex system to test the operability for further simulation experiments.
+1. This project aims to develop an event-sampling immune adaptive controller based on a hybrid event-triggering mechanism to resist unknown external dynamic disturbances and tries to apply the theoretical achievements to practical control scenarios such as UAV swarms or intelligent cart swarms.
+2. Ascertain the research topic with the supervisor, which is to add a perturbation observer, a second-order filter, and an event trigger to a state-constrained nonlinear system, refer to extensive literature regarding these models, and add them to a nonlinear complex system to test the operability for further simulation experiments.
 3. This project is funded up to **23,200 RMB**, and it is awarded outstanding completion.
 
 
