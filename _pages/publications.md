@@ -47,7 +47,7 @@ State: undergoing review
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
 *Nonlinear Dynamics* (IF=5.6).  
-State: undergoing review
+State: under review
 
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
 Yujie Liao, Xin Wang\* and <ins>**Ziming Wang**\*</ins>.  
