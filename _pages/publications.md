@@ -49,6 +49,11 @@ Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>.
 *Nonlinear Dynamics* (IF=5.6).  
 State: undergoing review
 
+### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
+Yujie Liao, Xin Wang\* and <ins>**Ziming Wang**\*</ins>.  
+*Neural Networks* (IF=7.8).  
+State: undergoing review
+
 ### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
 <ins>**Ziming Wang**</ins>.  
 *The 36th Chinese Control and Decision Conference* (CCDC 2024).  
