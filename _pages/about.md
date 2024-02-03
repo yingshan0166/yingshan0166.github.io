@@ -27,7 +27,6 @@ Research Interests
 - Journalism and Communication Education  
 - Internet+  
 - Education and management
-- Reinforcement learning
 
 Contact Emails
 ------
