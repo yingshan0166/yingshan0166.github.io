@@ -26,7 +26,7 @@ Research Interests
 ------
 - Journalism and Communication Education  
 - Internet+  
-- Nonlinear control system
+- Education and management
 - Reinforcement learning
 
 Contact Emails
