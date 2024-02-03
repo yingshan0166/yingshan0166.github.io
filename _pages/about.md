@@ -11,16 +11,16 @@ redirect_from:
 
 Biography
 ------
-Ziming Wang is a master of philosophy postgraduate student in the Hong Kong University of Science and Technology (Guangzhou). His research interests lie in a wide range of topics related to control theory and machine learning. He has published in refereed journals, such as IEEE TNNLS, IEEE TCASII, and Cognitive Computation. He is presently supervised by [Prof. Yu Huan](https://yuhuanlab.com/).
+Yingshan Wang is currently an employee of Shenzhen CIMC Intelligent Pallet Co. Her main areas of research are in the field of media, and international development, and she has a wealth of work experience and a strong ability to learn. 
 
 Education
 ------
-- 2019.09-2023.06  
->- Bachelor in Southwest University (SWU)   
->- Major in Electronic Information Engineering  
-- 2023.09-present  
->- MPhil in the Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)
->- Major in Robotics and Autonomous Systems
+- 2016.09-2020.06  
+>- Bachelor in Xi'an Jiaotong-Liverpool University (XJTLU)   
+>- Major in Media English  
+- 2020.10-2021.11  
+>- MPhil in University of Warwick  (UW)  
+>- Major in International Development and Global Education  
 
 Research Interests
 ------
@@ -31,5 +31,4 @@ Research Interests
 
 Contact Emails
 ------
-wwwangziming@163.com  
-zwang216@connect.hkust-gz.edu.cn
+m18839660166@163.com  
