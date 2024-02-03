@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Experience"
 author_profile: true
 redirect_from: 
   - /publications
