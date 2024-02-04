@@ -16,10 +16,9 @@ Assist in docking Europe, America and Southeast Asia market, provide personalise
 **Assisting in docking other departments' business needs**:  
 Assisting in the completion of daily paperwork, English translation of internal systems, assisting the system on-line; customer reception is responsible for the development of corporate culture in English; responsible for the department's internal contract management, signing and reporting process, official seal management and other administrative work, and get the department's internal praise.  
 
-## Research on Tracking Control of High-order Nonlinear Multiagent Systems  （06/2021-06/2022） Member  
-**Project Source**: Project for Innovation Training Program for College Students (Municipal-level Project)
+## ByteDance  （09/2021-12/2021） HRBP internship  
+**Main work**: Assist in supporting the recruitment of B/C designers and game planners for multiple product lines (Jittery, Today's Headline, Watermelon Video, etc.); coordinate and arrange interviews with candidates, follow up on the whole process, and recruit 4 relevant designers in 3 months; assist in the completion of ByteDance's Autumn 2021 campus recruiting process.
 
-**Project Information**: 
-1. This project investigated the semi-strict feedback system with one pilot and multiple followers existing in consistency control by introducing filters into the higher-order nonlinear multi-intelligent semi-strict feedback system to reduce the complexity and improve the reliability and safety of the system, and designing the unknown disturbance observer to handle the unknown disturbance term. This project is a municipal-level project with a fund of **3000 RMB** and a dissertation published, i.e. the first publication on the PUBLICATION column.
-2. Responsible for data collection, data processing, word processing, part of simulation experimental tasks, and paper composing.
+## Greenland Holdings Corporation Limited  （07/2019-09/2019） Internship in Operation Management Department  
+**Main work**: Participated in the planning and implementation of the company's internal activities and staff games; participated in partner development and docking, customer relationship handling and other matters; assisted in the translation of relevant meeting documents, coordinating and docking the needs of the relevant departments, and was awarded the title of excellent intern during the internship period.
 
