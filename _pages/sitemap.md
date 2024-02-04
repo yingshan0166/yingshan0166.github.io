@@ -15,7 +15,7 @@ author_profile: true
 <ins>**Yingshan Wang**</ins>. (2021.06)  
 *中外交流*.  
 
-## 📚 Activities
+## ⭐ Activities  
 ### 西浦SCDA 职业发展协会语言文化会 副会长 (2017.03-2018.03)  
 
 ### 苏州艺术中心跨年演奏会既芭蕾舞团成立 志愿者 (2017.12-2018.01)  
