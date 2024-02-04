@@ -6,14 +6,15 @@ redirect_from:
   - /publications
 ---
 
-## Event-Triggered Adaptive Neural Control for Full State-constrained Nonlinear Systems With Unknown Disturbances （06/2022-06/2023） Research Group Leader 
-**Project Source**: Project for Innovation Training Program for College Students (National-level Project)  
+## Shenzhen CIMC Hui Pallet Co. （06/2022-present） International Operation Department  
+**Customer Docking**:  
+Assist in docking with customers in Europe, America and Southeast Asia, daily communication and maintenance of customer relations, explore customer needs and provide timely service support.  
 
-**Project Information**: 
-1. This project aims to develop an event-sampling immune adaptive controller based on a hybrid event-triggering mechanism to resist unknown external dynamic disturbances and tries to apply the theoretical achievements to practical control scenarios such as UAV swarms or intelligent cart swarms.
-2. Ascertain the research topic with the supervisor, which is to add a perturbation observer, a second-order filter, and an event trigger to a state-constrained nonlinear system, refer to extensive literature regarding these models, and add them to a nonlinear complex system to test the operability for further simulation experiments.
-3. This project is funded up to **23,200 RMB**, and it is awarded outstanding completion.
+**Order management and data analysis**:   
+Assist in docking Europe, America and Southeast Asia market, provide personalised container leasing services according to customers' needs, follow up order execution and provide operation data support, analyse and excavate customers' needs, perfect operation mode and improve service quality; docking customers include ExxonMobil, RSS Goodyear Chemical Company, etc. At the end of the year, we won the Outstanding Team Breakthrough Award.  
 
+**Assisting in docking other departments' business needs**:  
+Assisting in the completion of daily paperwork, English translation of internal systems, assisting the system on-line; customer reception is responsible for the development of corporate culture in English; responsible for the department's internal contract management, signing and reporting process, official seal management and other administrative work, and get the department's internal praise.  
 
 ## Research on Tracking Control of High-order Nonlinear Multiagent Systems  （06/2021-06/2022） Member  
 **Project Source**: Project for Innovation Training Program for College Students (Municipal-level Project)
